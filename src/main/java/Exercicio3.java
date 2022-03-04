@@ -16,7 +16,8 @@ public class Exercicio3 {
 
             if(NFA >= 50)
             {
-                System.out.println("Parabéns, aluno aprovado, nota final = " +NFA);
+                System.out.println("Parabéns, aluno aprovado, nota final = " +NFA
+                );
             }
 
             else
